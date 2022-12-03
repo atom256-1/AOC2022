@@ -1,1 +1,1 @@
-# Advent of Code 2022 
+# Advent of Code 2022 My attempts of solving the problems for the Advent of Code 2022. Most of the solutions won't attempt to be optimal, but some will be actively bad because the approach felt more interesting to implement. If you want to follow along, you can access the exercices at [Advent of Code 2022](https://adventofcode.com/2022). <br/><br/>Massive thanks to Eric Wastl for the challenges.
