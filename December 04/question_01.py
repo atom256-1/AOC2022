@@ -25,5 +25,5 @@ for i in range(len(content)) :
 
 
 print()
-print(a)
-print(o)
+print("# of fully contained assigment pairs :", a)
+print("# of assigment pairs that overlap    :", o)
