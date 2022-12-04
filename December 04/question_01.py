@@ -26,4 +26,4 @@ for i in range(len(content)) :
 
 print()
 print(a)
-print(o) 
+print(o)
